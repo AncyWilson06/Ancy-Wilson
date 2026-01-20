@@ -73,5 +73,6 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ancyywilson&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
+![Snake animation](https://raw.githubusercontent.com/ancyywilson/ancyywilson/output/github-contribution-grid-snake.svg)
 
 ✨ *Thanks for visiting my profile!*  

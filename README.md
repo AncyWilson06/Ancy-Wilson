@@ -64,12 +64,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ancyywilson&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ancyywilson&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
